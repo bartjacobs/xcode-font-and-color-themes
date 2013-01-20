@@ -1,0 +1,1 @@
+This repository contains Xcode Font and Color Themes that I use in my everyday work. To install a theme, drag the **.dvtcolortheme** file to **Library > Developer > Xcode > UserData > FontAndColorThemes**. Restart Xcode and select the theme in Xcode's **Preferences** window under the **Fonts and Colors** tab.
